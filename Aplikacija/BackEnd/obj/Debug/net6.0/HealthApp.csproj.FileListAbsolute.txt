@@ -1,0 +1,330 @@
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\HealthApp.exe
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\HealthApp.deps.json
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\HealthApp.runtimeconfig.json
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\HealthApp.pdb
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.csproj.AssemblyReference.cache
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.AssemblyInfoInputs.cache
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.AssemblyInfo.cs
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\scopedcss\bundle\HealthApp.styles.css
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.csproj.CopyComplete
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.pdb
+C:\Users\Nixy\Desktop\HealthApp\obj\Debug\net6.0\HealthApp.genruntimeconfig.cache
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Nixy\Desktop\HealthApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\HealthApp.exe
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\HealthApp.deps.json
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\HealthApp.runtimeconfig.json
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\HealthApp.pdb
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.csproj.AssemblyReference.cache
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.AssemblyInfoInputs.cache
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.AssemblyInfo.cs
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\scopedcss\bundle\HealthApp.styles.css
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.csproj.CopyComplete
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.pdb
+C:\Users\Nixy\Desktop\HealthApp - Copy\obj\Debug\net6.0\HealthApp.genruntimeconfig.cache
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.exe
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.deps.json
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.runtimeconfig.json
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.pdb
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.AssemblyReference.cache
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.AssemblyInfoInputs.cache
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.AssemblyInfo.cs
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\scopedcss\bundle\HealthApp.styles.css
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.CopyComplete
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.pdb
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.genruntimeconfig.cache
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.AssemblyReference.cache
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.AssemblyInfoInputs.cache
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.AssemblyInfo.cs
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.CoreCompileInputs.cache
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.pdb
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\appsettings.json
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.exe
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.deps.json
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.runtimeconfig.json
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.pdb
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Firebase.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Humanizer.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\LiteDB.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Reactive.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\scopedcss\bundle\HealthApp.styles.css
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.CopyComplete
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\refint\HealthApp.dll
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.genruntimeconfig.cache
+D:\Faks\SWE\SWE projekat git\Aplikacija\BackEnd\obj\Debug\net6.0\ref\HealthApp.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Firebase.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\LiteDB.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Nixy\Documents\Projects\HealthApp\Aplikacija\BackEnd\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.exe
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.deps.json
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.runtimeconfig.json
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\HealthApp.pdb
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Firebase.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Humanizer.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\LiteDB.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.AssemblyReference.cache
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.AssemblyInfoInputs.cache
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.AssemblyInfo.cs
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\scopedcss\bundle\HealthApp.styles.css
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.csproj.CopyComplete
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\refint\HealthApp.dll
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.pdb
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\HealthApp.genruntimeconfig.cache
+C:\Users\korti\Desktop\swe\latestBranch18\si.22.38.health_appointment\Aplikacija\BackEnd\obj\Debug\net6.0\ref\HealthApp.dll
